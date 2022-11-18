@@ -7,7 +7,7 @@ using System.Collections.Generic;
 namespace Common.Api.Dependency.Swagger
 {
     /// <summary>
-    /// SwaggerExtension with Authorize
+    /// SwaggerExtension with Authorize for core api
     /// </summary>
     public static class SwaggerExtension
     {
